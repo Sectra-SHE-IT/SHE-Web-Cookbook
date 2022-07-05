@@ -1,0 +1,1 @@
+﻿positionForPages[43]={page:43,positions:[{word:"Desserts",left:0.058824,top:0.418333,width:0.405196,height:0.170714},{word:"40",left:0.921824,top:0.934179,width:0.019353,height:0.025607}]};

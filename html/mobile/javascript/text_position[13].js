@@ -1,0 +1,1 @@
+﻿positionForPages[13]={page:13,positions:[{word:"Sides",left:0.058824,top:0.418333,width:0.247451,height:0.170714},{word:"&",left:0.327843,top:0.418333,width:0.081765,height:0.170714},{word:"Sauces",left:0.431176,top:0.418333,width:0.320980,height:0.170714},{word:"10",left:0.924530,top:0.934179,width:0.016647,height:0.025607}]};

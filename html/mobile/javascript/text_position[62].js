@@ -1,0 +1,1 @@
+﻿positionForPages[62]={page:62,positions:[{word:"59",left:0.058824,top:0.934179,width:0.017824,height:0.025607}]};

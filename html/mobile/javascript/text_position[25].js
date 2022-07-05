@@ -1,0 +1,1 @@
+﻿positionForPages[25]={page:25,positions:[{word:"Main",left:0.058824,top:0.418333,width:0.229412,height:0.170714},{word:"Dishes",left:0.309804,top:0.418333,width:0.307755,height:0.170714},{word:"22",left:0.924279,top:0.934179,width:0.016897,height:0.025607}]};
